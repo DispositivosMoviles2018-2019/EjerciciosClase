@@ -1,0 +1,4 @@
+#Thu Jan 03 15:37:27 COT 2019
+base.0=C\:\\Users\\Luis\\Desktop\\AppMovement\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+path.0=classes.dex
+renamed.0=classes.dex
