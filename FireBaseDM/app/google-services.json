@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "44236610650",
+    "firebase_url": "https://notificacionesdm-dc647.firebaseio.com",
+    "project_id": "notificacionesdm-dc647",
+    "storage_bucket": "notificacionesdm-dc647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44236610650:android:20f45cc5c7a469b1",
+        "android_client_info": {
+          "package_name": "uce.edu.ec.firebasedm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44236610650-ik62lksck55b7hk8lqcnqt75s33bts9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uce.edu.ec.firebasedm",
+            "certificate_hash": "9393f288f01b9a5ae7907b3133c3548904c2bdcc"
+          }
+        },
+        {
+          "client_id": "44236610650-0ma55a0lr8kcn1eg2t0mulrnp3ou6qda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_i0eYnJnhOuMF6tVOVtEOhWm3mrZGfzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44236610650-0ma55a0lr8kcn1eg2t0mulrnp3ou6qda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
